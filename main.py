@@ -7,8 +7,8 @@ from pathlib import Path
 
 OUTPUT_PATH = Path("/output/entry.txt")
 
-OPENING = "The rollback failed because past me was confident, "
-LANDING = "and present me is technically a different person since the last update."
+OPENING = "The rollback failed because past me was confident, and present me is "
+LANDING = "technically a different person since the last update."
 
 ENTRY = OPENING + LANDING
 
